@@ -1,4 +1,6 @@
 ![Design Desktop preview](https://raw.githubusercontent.com/hisatt/SCR1-AddAndFilter/main/public/images/desktop-preview.png)
+![Design Desktop preview 2](https://raw.githubusercontent.com/hisatt/SCR1-AddAndFilter/main/public/images/desktop-preview2.png)
+
 
 # Getting Started with Create React App
 
