@@ -1,0 +1,14 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 22.2px;
+}
+
+.image {
+    width: 100%;
+    height: 180px;
+    background: #EEF2F4;
+    border-radius: 10px;
+}

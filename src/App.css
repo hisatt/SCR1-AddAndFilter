@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  max-width: 1440px;
+  margin: 89px 150px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 120px;
+}
